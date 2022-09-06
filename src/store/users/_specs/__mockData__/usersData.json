@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "firstName": "a",
+    "lastName": "b",
+    "email": "this@gmail.com",
+    "role": "student"
+  }
+]
